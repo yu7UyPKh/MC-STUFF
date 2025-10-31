@@ -41,6 +41,11 @@ hash = "302c338b3662fdee1078bedd9df58db70d1ddbec10c98580075071aeed2947cb"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "d48d9c31ca9acb944d6446df88df71ea299064f957e39e294ac70e2855d9fea2"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b9403fe4cf0414c398c4842091128864d9a1f00da676f672548021c29e37e46"
 metafile = true
@@ -226,6 +231,11 @@ hash = "0a97a21b671a96ec6258fcf0b9946e5c3333c5051c0aa97484612bca560d2d6f"
 metafile = true
 
 [[files]]
+file = "mods/extra-rpg-attributes.pw.toml"
+hash = "527486dfe068d90c10221327e96712d4e4d1df2e5afd78b46ade209904af0fe5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "14031effd0687c9f73e721ea3ef71c1feff1192657048961dfb967935262f1f3"
 metafile = true
@@ -376,6 +386,11 @@ hash = "3fd48356ad1607d9a10107b00116d8f3d7eb6c1875d7109ca8596b933da30adc"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "8306c030be24c3df8edc4635307a34bc193267881f7c794000cf2fe7d6860d48"
 metafile = true
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "74898d6a47fb952410c6bc0ed143c853de61a71d6472fdb0bf1ef45ca766f4d3"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
@@ -436,6 +456,11 @@ hash = "d216bfcf55a18502fa64fafce1f4244352a124461d5a0af457de024cde7caf1c"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "06cf9fdd7ac69b428f19ba61c30e9f78d63cb05df4cb7500b4bd4cc4a03d6b13"
 metafile = true
@@ -448,6 +473,21 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "3ffb498ed34d44216b4233bf188ebc465f7eeb0448eaa107f0ae945b474ac54b"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "6677b688d4d6ac20c1e9fe5df29f1e48931aca9275e0baa946fa278bf0f9f15d"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
+file = "mods/spellblades-and-such.pw.toml"
+hash = "c774f90ceac96d72e74875040d7ec4fc51aafddc72d70b45f5b106a4152071a5"
 metafile = true
 
 [[files]]
