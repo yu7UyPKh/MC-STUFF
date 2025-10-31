@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/s9hF9QGp/versions/aYfs5ZCo/cosmetica-1.20-1.2.9.jar"
-hash-format = "sha512"
-hash = "12624245a34285cbcacb8cb821125a89ef372d274aa35eb05c98fea4df50a88f458aa38e40834e79cb4f020073ab8f174da1362af6408100c8047deb5d9fe84c"
+hash-format = "sha256"
+hash = "e868aa5df87e39e699a59eca0d8adfdc385593b80e97b6874fda5cdfb2add873"
 
 [update]
 [update.modrinth]

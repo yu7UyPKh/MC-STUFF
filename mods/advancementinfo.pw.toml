@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/G1epq3jN/versions/gfcbMV82/advancementinfo-1.20-fabric0.83.0-1.4.jar"
-hash-format = "sha512"
-hash = "ff10a77f831354f757c1ba4b6906e612549f3ac0dd3b15101dae29a459937bfceabe5e7ce7cd9126e58833a69e5a4ba04993dfcf2098830b9ccf2c192dddc0e5"
+hash-format = "sha256"
+hash = "cb394550be72cfa2ac1e96031253d8cf3a11a81d5463af2c8ace3bcc5cb5d8d9"
 
 [update]
 [update.modrinth]

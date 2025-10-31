@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QtkeMX9L/versions/S7xwyDWA/create_connected-0.7.4-mc1.20.1%2BFABRIC%2BHOTFIX.jar"
-hash-format = "sha512"
-hash = "0b0becf2132fb5841907c3a71bdaba11afa456f2519f0b0e7de41164ee14b89cc7562f8eb3b51d75485fdd3c9df6a712672aec9b1afb2f96cc3a476cc93547a5"
+hash-format = "sha256"
+hash = "cdb63093bae05f9510f773c5d3a3ceb82c56c18b6be5b9a02899d9a54dee67ec"
 
 [update]
 [update.modrinth]

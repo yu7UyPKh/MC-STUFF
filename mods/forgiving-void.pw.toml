@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/FcGknFxg/forgivingvoid-fabric-1.20.1-10.0.2.jar"
-hash-format = "sha512"
-hash = "f71d0a27cd36f49ec7b4145e324fe3f0b8a338e157b8dd7afa5a3e3c8b7d425df81f313c8f64dd07808a6ceb4ca57c188c3b757587abe0588ac15ad4df71b4a0"
+hash-format = "sha256"
+hash = "615dba5b0dc571b47fc5380e692dd981611de2d87c36ec2c029fbe8445201b3c"
 
 [update]
 [update.modrinth]

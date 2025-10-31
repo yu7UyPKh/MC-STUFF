@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar"
-hash-format = "sha512"
-hash = "a94c20d349546a774a89265c56650e547de353af7e8eb8d7ca7a69033570bdaa7c8d478edda3a6c50379d64d708c3ffd581da4214abc3930694fcf8462b03058"
+hash-format = "sha256"
+hash = "7a005811d8e89d124213936e47f5f200df2ede6dda0e3c958d5b6f9b4bc96f5a"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vNNL5mc7/versions/Wk9QvZwR/bedspreads-fabric-6.3.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "2b43ae2ce8b90420dca61ad38bd8508c044129bd6cf3b1b83c61d9249495f39e8cdb8565f69c405b13f7f81d8c016d842b2ca1705c024c8daae3d86146e2c151"
+hash-format = "sha256"
+hash = "864353a85f4b5cf3897454e51139c1d4de832708c5b9d11569253e78ab4b29d7"
 
 [update]
 [update.modrinth]
