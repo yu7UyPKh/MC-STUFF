@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/yu7UyPKh/Spectrum/releases/download/spectrum-art-pallete-doingy/spectrum-1.8.6.jar"
 hash-format = "sha256"
-hash = "1ca8d702d9505c542bdb695011578f4480b4d1dfd90ea7556fca5fe98b61306f"
+hash = "0dba0359d4d1905cdcb2b2737c981e267bc195afbcaf94667a4afbe2381b4ba1"
 
 [update]
 [update.modrinth]
