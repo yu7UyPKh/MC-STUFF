@@ -41,11 +41,6 @@ hash = "302c338b3662fdee1078bedd9df58db70d1ddbec10c98580075071aeed2947cb"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "d48d9c31ca9acb944d6446df88df71ea299064f957e39e294ac70e2855d9fea2"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b9403fe4cf0414c398c4842091128864d9a1f00da676f672548021c29e37e46"
 metafile = true
@@ -483,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
-metafile = true
-
-[[files]]
-file = "mods/spellblades-and-such.pw.toml"
-hash = "c774f90ceac96d72e74875040d7ec4fc51aafddc72d70b45f5b106a4152071a5"
 metafile = true
 
 [[files]]
