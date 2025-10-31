@@ -506,6 +506,11 @@ hash = "34ba8b69cf8bbd891cffb393aa9c3729d5d4bafd65a606c8ab4e282ddd4582c0"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "982ddeeb761a8e001ed2b0487b916bb08d012666d369c7e6aeb0e5d950b6e99f"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "1d50d8d92cbaff64a3106a9da264baa70783e70f7d0503add1d2ffa941c98969"
 metafile = true
