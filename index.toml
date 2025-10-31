@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "302c338b3662fdee1078bedd9df58db70d1ddbec10c98580075071aeed2947cb"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "14031effd0687c9f73e721ea3ef71c1feff1192657048961dfb967935262f1f3"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -256,8 +256,33 @@ hash = "56dea995d283061c0c5e5ae5e32c66f88ea5dc9628b7944bfc624b96da8455e9"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "448e563f4786e28ce661929ffdd4d16639a06c1a3b025418d50e317207b76a4b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "f0b37c6a792153635776c5a2dfd48b191e2ffedfabb23457c8fccbf069688422"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "2ed72347d95e5b19bb2625185f6cec0d050695e122b9b480b10c1f6fb65d87d7"
 metafile = true
 
 [[files]]
@@ -298,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "7eab4bebadfa998651dcba297626a39b60e25c5fbbd58c7b6722c9dc1072b02a"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
 
 [[files]]
@@ -378,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1057c48cfd85abfe044e7f1c3e43247df8e1ce861c06c956349e8b0c5dbef34e"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
 
 [[files]]
