@@ -351,6 +351,11 @@ hash = "113b72d80a5f4b1f5512347ea80afba98a2ca2cbfc4bea91b0a656fec14eb1b4"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8a85688cdc039442e56ca144c9152f5d144744a3b895580ca70a494af462130"
 metafile = true
