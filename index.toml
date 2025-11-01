@@ -431,6 +431,11 @@ hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
+file = "mods/nets.pw.toml"
+hash = "5ca8fbd517ad2a110188eece0a9ec9df09e62fd1e5cadecb0f3ac8489d9abd6f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "8306c030be24c3df8edc4635307a34bc193267881f7c794000cf2fe7d6860d48"
 metafile = true
