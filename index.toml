@@ -541,6 +541,11 @@ hash = "c4a2cbc04862b059f0b9039d44b61b8e25b88d3151fad1768d2803eb7b5fc6b7"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
+hash = "6a20c60b4fac62bdb4672d7d4400a6df7f4b5aa855d4c04dd6bc9c374304bafd"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "a20c5937c28d7e7c89fafc1dc90aca6481c55e3ec9cb6a8b7c7027058ee2789e"
 metafile = true
