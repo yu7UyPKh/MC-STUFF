@@ -241,6 +241,11 @@ hash = "70b69db9a5909c2551ecc57d7e6a8de3f1f78262f69d8acf99547101fb27185f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8cecab0c863c39bdb68587b83a4403dcf35c39978b3ab77bf73f9914f348d6df"
 metafile = true
