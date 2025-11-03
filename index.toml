@@ -221,6 +221,11 @@ hash = "c8962613c40a6bacbaa633d34e12b96fe71b4d8e3c5923e6909625eaf11d146e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0a97a21b671a96ec6258fcf0b9946e5c3333c5051c0aa97484612bca560d2d6f"
 metafile = true
@@ -228,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/extra-rpg-attributes.pw.toml"
 hash = "527486dfe068d90c10221327e96712d4e4d1df2e5afd78b46ade209904af0fe5"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "c784cee4a8eed3f2b36172b8c5a119a62a28880d15e7f169947c935bf3bf4bb3"
 metafile = true
 
 [[files]]
@@ -513,16 +513,6 @@ metafile = true
 [[files]]
 file = "mods/silk.pw.toml"
 hash = "06cf9fdd7ac69b428f19ba61c30e9f78d63cb05df4cb7500b4bd4cc4a03d6b13"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "7e247fc51fae1fdaf7cca7a94f7222341d6673b68941a933adafaa4b921ec2b2"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
