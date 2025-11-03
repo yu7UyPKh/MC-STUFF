@@ -521,6 +521,11 @@ hash = "06cf9fdd7ac69b428f19ba61c30e9f78d63cb05df4cb7500b4bd4cc4a03d6b13"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "3ffb498ed34d44216b4233bf188ebc465f7eeb0448eaa107f0ae945b474ac54b"
 metafile = true
