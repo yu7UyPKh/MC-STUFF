@@ -296,6 +296,11 @@ hash = "2ed72347d95e5b19bb2625185f6cec0d050695e122b9b480b10c1f6fb65d87d7"
 metafile = true
 
 [[files]]
+file = "mods/hidearmormod.pw.toml"
+hash = "ceccbd092fda51139f0e4384564b67a6585c160a481f1ea20014d0a1d95cb726"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "901ceedd9345a52289bd2d59af3265f4a553948398563301c903ba8aff065927"
 metafile = true

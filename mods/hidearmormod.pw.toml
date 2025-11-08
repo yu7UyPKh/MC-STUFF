@@ -1,0 +1,13 @@
+name = "Hide Armor Mod"
+filename = "hidearmormod-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lf9TLv89/versions/xiUw6Ptw/hidearmormod-1.0.1.jar"
+hash-format = "sha512"
+hash = "da0ad5fd9ac5be0c89c267f871fb1edae3fbe9b82733c01949000417015aa69e5c03ae447afb4e17676b67b20ad488eef154ebb4dc5b4c3e1a0b159aa6903ab7"
+
+[update]
+[update.modrinth]
+mod-id = "lf9TLv89"
+version = "xiUw6Ptw"
