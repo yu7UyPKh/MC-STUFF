@@ -106,6 +106,11 @@ hash = "5e4ff8222131ca3d4948c32b22094c6dc159b3117cdf92575d59c03659914e90"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5b137b69e241c9e7d0f6f1d33f40ab56956f51e8f4bb51608721dd4df0cc897e"
 metafile = true
@@ -293,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/hexdebug.pw.toml"
 hash = "2ed72347d95e5b19bb2625185f6cec0d050695e122b9b480b10c1f6fb65d87d7"
-metafile = true
-
-[[files]]
-file = "mods/hidearmormod.pw.toml"
-hash = "ceccbd092fda51139f0e4384564b67a6585c160a481f1ea20014d0a1d95cb726"
 metafile = true
 
 [[files]]
@@ -518,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "f29ba19cab72bdca9cbf01a557f5fb78513412094d4d4051295ab34ff1a86d9d"
 metafile = true
 
 [[files]]
