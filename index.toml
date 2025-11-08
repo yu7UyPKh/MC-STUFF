@@ -51,6 +51,11 @@ hash = "2cf662d9e53e77bbeb0b9cb1d16da480ebab2712693f449610d989cf8bd180c3"
 metafile = true
 
 [[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "2c89dbb76c9118ebb9f75e23aa0b337588907891d9fe50d7d5a497eaacb82fee"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "8e2601eb25e9df89c060ca503a609c5b6b78c5f68cff95551e0fb58b253c07c5"
 metafile = true
