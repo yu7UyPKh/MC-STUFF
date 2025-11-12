@@ -1,11 +1,11 @@
 name = "Spectrum"
-filename = "spectrum-1.8.7.jar"
+filename = "spectrum-1.8.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/yu7UyPKh/Spectrum/releases/download/testbuilds/spectrum-1.8.7.jar"
+url = "https://github.com/yu7UyPKh/Spectrum/releases/download/testbuilds/spectrum-1.8.5.jar"
 hash-format = "sha256"
-hash = "c6842072a06dd04bbc51dd2499092408def9ef33ea5ff17b8271b8869ec9e868"
+hash = "7e989a63b85515b573bcfeabf3549a1a9eadd8fe68ca2b23db2f0b1a5f6838f8"
 
 [update]
 [update.github]
