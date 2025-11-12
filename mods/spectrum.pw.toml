@@ -1,13 +1,15 @@
 name = "Spectrum"
-filename = "spectrum-1.8.6.jar"
+filename = "spectrum-1.8.7.jar"
 side = "both"
 
 [download]
-url = "https://github.com/yu7UyPKh/Spectrum/releases/download/spectrum-art-pallete-doingy/spectrum-1.8.6.jar"
+url = "https://github.com/yu7UyPKh/Spectrum/releases/download/testbuilds/spectrum-1.8.7.jar"
 hash-format = "sha256"
-hash = "1ca8d702d9505c542bdb695011578f4480b4d1dfd90ea7556fca5fe98b61306f"
+hash = "c6842072a06dd04bbc51dd2499092408def9ef33ea5ff17b8271b8869ec9e868"
 
 [update]
-[update.modrinth]
-mod-id = "3rc31Hgo"
-version = "LISEhPJH"
+[update.github]
+branch = "1.21.1-aria-for-painters-mojmap"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yu7UyPKh/Spectrum"
+tag = "testbuilds"
