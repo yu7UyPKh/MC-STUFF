@@ -21,11 +21,6 @@ hash = "e1dbd4b5d49d19f6d21e019802fe6c215bbe51694322ffb6a94664cbaf7d2384"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "26c4ee6f57f5740a20b96f949e967ed1b713c97490fedac7e67c71acf37b444a"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "8979da92695d31b57030a4efd46297a1a4d8b3e6004a311aedf48a35abbf99a7"
 metafile = true
@@ -203,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "2e5dbdb528f5016383a4f00081c3e34981cb8abf5f3ad0a6b5cc8912d8e83810"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "446fab8551eac0486998922b625c7e9a5d7bce4f3dd8fb8455a95cd49e26b55c"
 metafile = true
 
 [[files]]
@@ -538,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
