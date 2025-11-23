@@ -41,11 +41,6 @@ hash = "1b9403fe4cf0414c398c4842091128864d9a1f00da676f672548021c29e37e46"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2cf662d9e53e77bbeb0b9cb1d16da480ebab2712693f449610d989cf8bd180c3"
-metafile = true
-
-[[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "2c89dbb76c9118ebb9f75e23aa0b337588907891d9fe50d7d5a497eaacb82fee"
 metafile = true
@@ -378,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "806eac3bb6f626956ad38d1a15944d082765ce565475222b743b4a3770db34be"
+metafile = true
+
+[[files]]
+file = "mods/mc-stuff.pw.toml"
+hash = "30c9c3d3f9e7c23392c956163b86360bf500619b01b442b11e5bf10895a065b7"
 metafile = true
 
 [[files]]
