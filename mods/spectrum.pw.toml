@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/yu7UyPKh/Spectrum/releases/download/testbuilds/spectrum-1.8.5.jar"
 hash-format = "sha256"
-hash = "7e989a63b85515b573bcfeabf3549a1a9eadd8fe68ca2b23db2f0b1a5f6838f8"
+hash = "9464ebc65c5d288c7f62626e34959e47f4a0a3b69107f0b4dd58870ebab66280"
 
 [update]
 [update.github]
