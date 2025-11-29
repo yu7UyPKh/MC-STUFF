@@ -221,6 +221,16 @@ hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b13f84a7fad7d6e21cef513a9c8f8206e55f0b342b4030df540e3126ad5abb2a"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0a97a21b671a96ec6258fcf0b9946e5c3333c5051c0aa97484612bca560d2d6f"
 metafile = true
@@ -653,4 +663,19 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "b069d5d0f52ddfae72924195e43bd530b563315f43e57fdad8cb95913174e818"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ae2-texture-backport.pw.toml"
+hash = "98ae36b7bff1d943f48ef907bbacbe9e95d4d8107cea74a65c87b0df5edfae92"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/newer-age.pw.toml"
+hash = "a4b248dc8851f286d84e0d44f4beac8e04ca2114f51f47806b92605cf949fb2c"
 metafile = true
