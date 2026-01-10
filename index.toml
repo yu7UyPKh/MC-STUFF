@@ -141,11 +141,6 @@ hash = "15b2d235ca63d000444418f1abc1b54521747eb2af8a53debe8b1d236f4609f1"
 metafile = true
 
 [[files]]
-file = "mods/contentcontent.pw.toml"
-hash = "a1f439280d9decff431dd80b2345be7dc6b463d695019f4ef85d058a9d2e3fb1"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
@@ -452,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-stuff.pw.toml"
-hash = "30c9c3d3f9e7c23392c956163b86360bf500619b01b442b11e5bf10895a065b7"
+hash = "1ca71ac677dbdd932665be0b0a244b14257e80e8dcf1091284a909c33aa38c3e"
 metafile = true
 
 [[files]]
