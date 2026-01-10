@@ -21,6 +21,11 @@ hash = "e1dbd4b5d49d19f6d21e019802fe6c215bbe51694322ffb6a94664cbaf7d2384"
 metafile = true
 
 [[files]]
+file = "mods/amarite.pw.toml"
+hash = "57e5355245b4a51951cbc2cb459371f25fc797cc2bbff9c9c158cd909bd3936a"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "8979da92695d31b57030a4efd46297a1a4d8b3e6004a311aedf48a35abbf99a7"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/bettertrims.pw.toml"
 hash = "e1e5009dbedd83c6a5a8de6433d1a9802ed8e03cfd44ad0308836e78a5f6aeef"
+metafile = true
+
+[[files]]
+file = "mods/blast.pw.toml"
+hash = "e15f84d436ede8b7358ac2c404a54a410f57896509c73762bd7133c6bc129924"
 metafile = true
 
 [[files]]
@@ -123,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "15b2d235ca63d000444418f1abc1b54521747eb2af8a53debe8b1d236f4609f1"
+metafile = true
+
+[[files]]
+file = "mods/contentcontent.pw.toml"
+hash = "a1f439280d9decff431dd80b2345be7dc6b463d695019f4ef85d058a9d2e3fb1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
@@ -211,6 +236,11 @@ hash = "4eb98a6d4525fcbd769e2beb7b15dae4d326e828393b583b58efe5cd993933e6"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c8962613c40a6bacbaa633d34e12b96fe71b4d8e3c5923e6909625eaf11d146e"
 metafile = true
@@ -218,6 +248,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
+hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a763f10ac9de0fbdc4efaf6a998996c54213931cd9a393129f1ff3231fdf8cf9"
 metafile = true
 
 [[files]]
@@ -253,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/fairy-lights-fabric.pw.toml"
 hash = "1c3c3cfd3c5739c289262319eddc8994d55ddd984d96651fbd1ecbdac67278ff"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
@@ -501,6 +546,11 @@ hash = "74898d6a47fb952410c6bc0ed143c853de61a71d6472fdb0bf1ef45ca766f4d3"
 metafile = true
 
 [[files]]
+file = "mods/pick-your-poison.pw.toml"
+hash = "0cb9b00b492d8dac3931eac50e9583622a183ab95cb5531858c1d92048680110"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
@@ -513,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "47c0b74899ea8ecbc6c37a4605a68687eae6e5c887997a86b5031a1c1bdccb7c"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
 metafile = true
 
 [[files]]
@@ -598,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest-unofficial.pw.toml"
 hash = "6a20c60b4fac62bdb4672d7d4400a6df7f4b5aa855d4c04dd6bc9c374304bafd"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]

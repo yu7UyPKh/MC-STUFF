@@ -1,0 +1,13 @@
+name = "ContentContent"
+filename = "contentcontent-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U7OuNBmH/versions/xg9813ki/contentcontent-1.3.6.jar"
+hash-format = "sha512"
+hash = "3dfe72ebb5d8e64a80e5401a4ef236c4830dced849e5abe9eac6ab37d55a1517b6a0c05381b5cb66cf07c69bf19c37c21fcd2c3b28ca4821339784cf62b7743a"
+
+[update]
+[update.modrinth]
+mod-id = "U7OuNBmH"
+version = "xg9813ki"
