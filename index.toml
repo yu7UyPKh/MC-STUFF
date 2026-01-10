@@ -231,6 +231,11 @@ hash = "4eb98a6d4525fcbd769e2beb7b15dae4d326e828393b583b58efe5cd993933e6"
 metafile = true
 
 [[files]]
+file = "mods/delete-later-bclib.pw.toml"
+hash = "ea393d25ad9e2d625fe2b4b0c1ca2d7bf9d4727bd99f79bba1f24aa2c9013d8d"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
 metafile = true

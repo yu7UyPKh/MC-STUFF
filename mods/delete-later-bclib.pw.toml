@@ -1,0 +1,15 @@
+name = "delete-later-bclib"
+filename = "bclib-3.0.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yu7UyPKh/delete-later-bclib/releases/download/bcv/bclib-3.0.15.jar"
+hash-format = "sha256"
+hash = "2968ba9646576943accd184dd64127f4612ed662f05a20cd0087a56899095e58"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yu7UyPKh/delete-later-bclib"
+tag = "bcv"
