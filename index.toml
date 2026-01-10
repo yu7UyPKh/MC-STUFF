@@ -251,11 +251,6 @@ hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a763f10ac9de0fbdc4efaf6a998996c54213931cd9a393129f1ff3231fdf8cf9"
 metafile = true
@@ -452,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-stuff.pw.toml"
-hash = "1ca71ac677dbdd932665be0b0a244b14257e80e8dcf1091284a909c33aa38c3e"
+hash = "8c88f72a6d27eb7f7248b6d1119117471a769d1dfc277a606f1aaf7e3c8b9c9a"
 metafile = true
 
 [[files]]

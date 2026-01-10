@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/yu7UyPKh/MC-STUFF/releases/download/enchancement_fix/enchancement-1.20-27.jar"
 hash-format = "sha256"
-hash = "f503b5de5586210b5bd136e3a005fc543331c815f1df7cd17e42cbb2c673859f"
+hash = "e175a89fe613feb99da2fb12bd29f7143e63ad762dbe7645a73abee5f775745f"
 
 [update]
 [update.github]
