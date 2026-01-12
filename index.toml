@@ -56,6 +56,11 @@ hash = "1b9403fe4cf0414c398c4842091128864d9a1f00da676f672548021c29e37e46"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "2c89dbb76c9118ebb9f75e23aa0b337588907891d9fe50d7d5a497eaacb82fee"
 metafile = true
