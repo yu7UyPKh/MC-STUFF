@@ -231,8 +231,13 @@ hash = "4eb98a6d4525fcbd769e2beb7b15dae4d326e828393b583b58efe5cd993933e6"
 metafile = true
 
 [[files]]
+file = "mods/defile.pw.toml"
+hash = "7f498243428ec6ab18cb7f3034625cbfeec81c21c24e20fc5a7bef939784aa1a"
+metafile = true
+
+[[files]]
 file = "mods/delete-later-bclib.pw.toml"
-hash = "ea393d25ad9e2d625fe2b4b0c1ca2d7bf9d4727bd99f79bba1f24aa2c9013d8d"
+hash = "05e58106155ee688b97ab1c9a7e1ce6657ee099df64d81307b79e03ba2d20e43"
 metafile = true
 
 [[files]]
@@ -596,6 +601,11 @@ hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
 metafile = true
 
 [[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "bf56082c48edd9cbdd23f7911a0a55d46f550a4e94082e8a22ffe9026c5bd0d1"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "f29ba19cab72bdca9cbf01a557f5fb78513412094d4d4051295ab34ff1a86d9d"
 metafile = true
@@ -633,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "542026f7aff2c56a189eab7cb7df72b23fc31d1be311b75d5b433f16007c29c2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "69ebbafbaa9e9b83cd87633b5244ab2da503fcdcf9e6a1bb44685d1f25788c0a"
 metafile = true
 
 [[files]]

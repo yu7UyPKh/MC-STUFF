@@ -1,11 +1,11 @@
 name = "delete-later-bclib"
-filename = "bclib-3.0.15.jar"
+filename = "enchancement-1.20-27.jar"
 side = "both"
 
 [download]
-url = "https://github.com/yu7UyPKh/delete-later-bclib/releases/download/bcv/bclib-3.0.15.jar"
+url = "https://github.com/yu7UyPKh/delete-later-bclib/releases/download/bcv/enchancement-1.20-27.jar"
 hash-format = "sha256"
-hash = "2968ba9646576943accd184dd64127f4612ed662f05a20cd0087a56899095e58"
+hash = "74e5878bebb60de86680f8c20741a6a79ddd87116080d12b5a1f76b043e83209"
 
 [update]
 [update.github]
