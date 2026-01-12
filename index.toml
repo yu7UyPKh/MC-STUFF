@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/ignore-pls-3.pw.toml"
-hash = "42ade0d7262da497c28efd80ec72a2b8ec27957a61bb05d8b6cadab1b2b58a06"
+hash = "bf2256c6f282959f685a25016e2001ecd4640963675c5815d0650aee70323152"
 metafile = true
 
 [[files]]

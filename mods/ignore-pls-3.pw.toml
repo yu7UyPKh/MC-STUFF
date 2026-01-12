@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/yu7UyPKh/ignore-pls-3/releases/download/s/arsenal-0.1.5-1.20.1.jar"
 hash-format = "sha256"
-hash = "df4eca4e10b8e2c5c7277713d0efa367bfd027d97364dae2615313f0b30da9b2"
+hash = "3a819a9ef419612b0db47d82a2966bcd18ab45a6df07002789fb67f6590c2d07"
 
 [update]
 [update.github]
