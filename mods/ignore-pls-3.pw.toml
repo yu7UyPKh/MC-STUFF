@@ -1,0 +1,15 @@
+name = "ignore-pls-3"
+filename = "arsenal-0.1.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yu7UyPKh/ignore-pls-3/releases/download/s/arsenal-0.1.5-1.20.1.jar"
+hash-format = "sha256"
+hash = "df4eca4e10b8e2c5c7277713d0efa367bfd027d97364dae2615313f0b30da9b2"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yu7UyPKh/ignore-pls-3"
+tag = "s"

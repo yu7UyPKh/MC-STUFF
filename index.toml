@@ -46,11 +46,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/arsenal.pw.toml"
-hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b9403fe4cf0414c398c4842091128864d9a1f00da676f672548021c29e37e46"
 metafile = true
@@ -363,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "901ceedd9345a52289bd2d59af3265f4a553948398563301c903ba8aff065927"
+metafile = true
+
+[[files]]
+file = "mods/ignore-pls-3.pw.toml"
+hash = "42ade0d7262da497c28efd80ec72a2b8ec27957a61bb05d8b6cadab1b2b58a06"
 metafile = true
 
 [[files]]
